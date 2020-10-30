@@ -8,7 +8,9 @@
  Front-end Friend Finder web-app built using ReactJS, Redux & Tachyons along with various middlewares to facilitate better working.
 </p>
 <br>
-<img src="public/robofriends-demo.png" width = 600px/>
+<div align="center">
+  <img src="public/robofriends-demo.png" width = 700px/>
+</div>  
 
 # 📚 Libraries Used
 
